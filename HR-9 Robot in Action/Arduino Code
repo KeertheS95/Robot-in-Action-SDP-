@@ -1,0 +1,46 @@
+# Robot in Action
+* == types
+- == key point
+
+
+#Components:
+
+---> Base
+---> Joints in robotics / Links and Joints
+        * Linear joints
+        * Rotary joints
+---> End-Effector / Gripper
+        * Vacuum gripper 
+        * Pneumatic grippers
+        * Hydraulic grippers
+        * Servo-electric grippers 
+---> Wrist
+---> Drive / Actuator
+        * Electric drive 
+        * Hydraulic drive
+        * Pneumatic drive
+---> Controller
+        - Used as the brain of the robot
+        - PWM (pulse with modification)
+---> Sensors
+        * Internal Sensors
+        --- Sensors ---
+            * Velocity
+            * Force
+            * Acceleration
+        * External Sensors
+        --- Sensors ---
+            * Lidar Sensor
+            * Ultrasonic Sensor
+            * ETC
+
+Kinematics, Dynmamic Movements, Sensing
+Motion Planning
+JNCSR
+Revolute Joint(R) one degree
+Prismatic Joint(P)
+Cylindrical Joint(C)
+        
+
+
+
